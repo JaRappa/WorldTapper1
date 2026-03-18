@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/lambda/)
 [![WebSocket](https://img.shields.io/badge/Real--time-WebSocket-1F2937)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-
+[![Live Demo](https://img.shields.io/badge/%F0%9F%8C%8D%20Live%20Demo-worldtapper.com-22C55E)](https://www.worldtapper.com)
 
 A real-time global counter product you can tap from anywhere, built as a full-stack mobile app.
 
