@@ -42,6 +42,7 @@
       ]
     ],
     "experiments": {
+      "baseUrl": "/WorldTapper1",
       "typedRoutes": true,
       "reactCompiler": true
     }
